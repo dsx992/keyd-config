@@ -12,5 +12,7 @@
 # install
 
 - run ```./install.sh```
-
-creates symlink to ```/etc/Keyd```
+    - creates symlink to ```/etc/Keyd```
+    - enables the daemon
+    - starts the daemon
+    - reloads the config
