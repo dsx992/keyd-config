@@ -8,6 +8,7 @@
 # prerequisites
 
 - keyd
+- keyboard
 
 # install
 
